@@ -1,0 +1,29 @@
+.shadow {
+    padding: 30px 40px 30px 40px;
+    background: rgba(255, 255, 255, 1);
+    border-radius: 15px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.30)!important;
+}
+
+span p {
+    color: red;
+}
+
+.btn {
+    width: 120px;
+    height: 50px;
+    border-radius: 40px;
+    background: #e03b65;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: whitesmoke;
+
+}
+
+.btn:hover {
+    background: white;
+    color: #e03b65;
+    border: 2px solid #e03b65;
+}

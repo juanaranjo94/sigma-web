@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { GuestModel } from '@core/models/guest-model'
+
 
 @Component({
   selector: 'app-root',
@@ -7,4 +9,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'sigma-web';
+  
 }
+
+
